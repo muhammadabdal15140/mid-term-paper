@@ -1,3 +1,8 @@
+
+
+<img width="1500" height="600" alt="DYNAMIC QUEUE MANAGEMENT SYSTEM (1920 x 1200 px)" src="https://github.com/user-attachments/assets/b78c40b9-bb49-44f0-9677-c5fad130ca1d" />
+
+
 # HospitalQU — Doubly-Linked Queue Example (C++)
 
 A small C++ console program demonstrating a doubly-linked list implementation used as a double-ended queue (deque) to manage patient IDs in a hospital queue. This educational example shows insertion at front, insertion at end, insertion at a specific position, removal from front, and traversals in both directions.
